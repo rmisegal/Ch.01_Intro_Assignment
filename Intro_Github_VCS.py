@@ -252,6 +252,8 @@ I enjoy coding
 ------------------Student 25------------------
 This is the Master Branch
 me
+After check in 6A I came back to Master branc and
+What is you favorite color?
 
 
 
